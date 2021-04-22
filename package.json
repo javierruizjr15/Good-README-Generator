@@ -9,15 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^6.5.2"
   },
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javierruizjr15/Good-README-Generator.git"
+    "url": "git+https://github.com/josephmnielsen/readMeGenerator.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/javierruizjr15/Good-README-Generator/issues"
+    "url": "https://github.com/josephmnielsen/readMeGenerator/issues"
   },
-  "homepage": "https://github.com/javierruizjr15/Good-README-Generator#readme"
+  "homepage": "https://github.com/josephmnielsen/readMeGenerator#readme"
 }
